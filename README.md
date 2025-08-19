@@ -1,6 +1,6 @@
 # eprCap
 ## Description
-Design files and description to build a simple flowthrough EPR capillary sample chamber
+Design files and description to build a simple flowthrough EPR capillary sample chamber that fits 8 mm collets.
 
 eprCap is meant to enable researchers to build a simple and reliable capillary sample system for aqeous or lossy EPR samples. It is based on a 3D printed cap, that holds an inner glass capillary of 1 mm outer diameter and a protective outer tube, e.g. a recycled 4 mm quartz tube. The assembly is held together with expoxy glue.
 
