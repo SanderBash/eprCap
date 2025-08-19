@@ -2,11 +2,11 @@
 ## Description
 Design files and description to build a simple flowthrough EPR capillary sample chamber
 
-eprCap is meant to enable researchers to build a simple and reliable capillary sample system for aqeous or lossy EPR samples. It is based on a 3D printed cap, that holds an inner glass capillary of 1 mm outer diameter and a protective outer tube, e.g. a recycled 5 mm quartz tube. The assembly is held together with expoxy glue.
+eprCap is meant to enable researchers to build a simple and reliable capillary sample system for aqeous or lossy EPR samples. It is based on a 3D printed cap, that holds an inner glass capillary of 1 mm outer diameter and a protective outer tube, e.g. a recycled 4 mm quartz tube. The assembly is held together with expoxy glue.
 
 ## BOM
  - 2x EPR Capillary Glue Ferrules
- - 1x 5 mm OD quartz or glass tube
+ - 1x 4 mm OD quartz or glass tube
  - 1x 1 mm OD glass capillary
  - 2x 1/16" OD, 1/32" ID PTFE tubing of desired length
  - 1x Blunt needle (21G size)
@@ -14,7 +14,7 @@ eprCap is meant to enable researchers to build a simple and reliable capillary s
 ## Build instructions
 ### Outer casing
 1. Print the EPR Capillary Glue Ferrule two times.
-2. Determine the length of the outer glass or quartz tube that is needed to fit in your resonator, making sure the printed parts fit into the top and bottom collet.
+2. Determine the length of the outer 4 mm glass or quartz tube that is needed to fit in your resonator, making sure the printed parts fit into the top and bottom collet.
 3. Cut the outer tube to length.
 4. Mix up some 5 minute epoxy and fill the outer tube recess in both ferrules.
 5. Insert the tube into the ferrules and align the assembly on a flat surface, along a straight edge (see picture, aluminum ruler) and let dry.
@@ -37,7 +37,19 @@ eprCap is meant to enable researchers to build a simple and reliable capillary s
 </p>
 
 
-10. Heat up one of the tubing ends to soften it and push it onto a blunt needle.
+10. Heat up one of the tubing ends to soften it and push it onto a blunt needle. See the finished result below.
+
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/ba96685b-89a2-4446-9461-9bbe28c93c19" width="600"/>
+ <p/>
+
    
 ## Usage
-Feed the tubing through the resonator and clamp the top and bottom ferrule using the resonator's collets. Fill the capillary using a syringe and record some spectra.
+Feed the tubing through the resonator and clamp the top and bottom ferrule using the resonator's collets, see image below. Fill the capillary using a syringe and record some spectra.
+
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/6b788ef8-5b50-4c54-9171-fc9f8cea736d" width="600"/>
+ <p/>
+
